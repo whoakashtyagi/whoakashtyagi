@@ -62,9 +62,9 @@
 ## 📈 Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=farmanzaidi&show_icons=true&theme=default" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=whoakashtyagi&show_icons=true&theme=default" />
   &nbsp;
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmanzaidi&layout=compact&theme=default" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoakashtyagi&layout=compact&theme=default" />
 </p>
 
 ---
@@ -72,8 +72,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="mailto:farmanzaidi@prapper.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/farmanzaidi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:akashttyagi21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/whoakashtyagi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
