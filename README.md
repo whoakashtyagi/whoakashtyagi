@@ -1,78 +1,96 @@
-<!--
-**whoakashtyagi/whoakashtyagi** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+<div align="center">
 
-<h1 align="center">👋 Hi, I’m Akash Tyagi</h1>
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#🚀-tech-stack">Tech Stack</a> •
-  <a href="#📈-stats">Stats</a> •
-  <a href="#📫-connect">Connect</a>
-</p>
+```
+░█▀▀█ ░█─▄▀ ─█▀▀█ ░█▀▀▀█ ░█─░█
+░█▄▄█ ░█▀▄─ ░█▄▄█ ─▀▀▀▄▄ ░█▀▀█
+░█─░█ ░█─░█ ░█─░█ ░█▄▄▄█ ░█─░█
+```
 
----
+### Software Engineer · Full-Stack · AI Enthusiast
+**Building SaaS/PaaS at Quark R&D** | 3+ years shipping scalable systems
 
-## 👨‍💻 About Me
-- 🔭 I’m currently building **SaaS/PaaS** solutions at Quark R&D, focusing on scalable backends and distributed systems  
-- 🌱 Passionate about **AI-driven** applications—experimenting with LangChain, embeddings & chatbots  
-- 💬 Ask me about Java, Spring Boot, Next.js, TypeScript, React and how to stitch them into full-stack apps  
-- ⚡ Fun fact: I love designing developer tools and developer experiences as much as writing production-grade code  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashtyagi21/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashttyagi21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whoakashtyagi)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-<details>
-  <summary>Backend & Infrastructure</summary>
-  <p>
-    <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" /></a>
-    <a href="https://spring.io/"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" /></a>
-    <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /></a>
-  </p>
-</details>
+> *"Good software is invisible — you only notice it when it's gone."*
 
-<details>
-  <summary>Frontend & Frameworks</summary>
-  <p>
-    <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /></a>
-    <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>
-  </p>
-</details>
+I'm a Software Engineer at **Quark Software Inc.**, where I build and optimize SaaS/PaaS solutions on the R&D team. I thrive at the intersection of robust backend architecture and seamless frontend experiences — and lately, I've been diving deep into the AI/LLM space.
 
-<details>
-  <summary>AI & NLP</summary>
-  <p>
-    <a href="https://github.com/hwchase17/langchain"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white" /></a>
-    <a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" /></a>
-  </p>
-</details>
-
-<details>
-  <summary>DevOps & Databases</summary>
-  <p>
-    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
-    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /></a>
-  </p>
-</details>
+- 🔭 Currently building **distributed systems & scalable backends** at Quark R&D
+- 🤖 Experimenting with **LangChain, embeddings & LLM-powered apps**
+- 💡 Passionate about **developer tooling** and great developer experiences
+- ☕ Ask me about **Java, Spring Boot, Next.js, TypeScript, or React**
+- ⚡ Fun fact: I obsess over both the architecture diagram *and* the pixel alignment
 
 ---
 
-## 📈 Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=whoakashtyagi&show_icons=true&theme=default" />
-  &nbsp;
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoakashtyagi&layout=compact&theme=default" />
-</p>
+**Backend & Infrastructure**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Frontend & Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="mailto:akashttyagi21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/whoakashtyagi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
 
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoakashtyagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoakashtyagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=whoakashtyagi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Spring Boot RabbitMQ API](https://github.com/whoakashtyagi/Spring-Boot-3.4.1-REST-API-for-RabbitMQ-4) | REST API integrating Spring Boot 3.4 with RabbitMQ 4 for async messaging | Java · Spring Boot · RabbitMQ |
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations about tech, AI, or software architecture.
+
+📧 [akashttyagi21@gmail.com](mailto:akashttyagi21@gmail.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/akashtyagi21](https://www.linkedin.com/in/akashtyagi21/)
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=whoakashtyagi&style=flat-square&color=58A6FF" alt="Profile views"/>
+
+*"Ship it. Iterate. Ship it again."*
+</div>
